@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: var(--cor0);
+    background-color: red;
 }
 
 @font-face {
@@ -62,7 +62,7 @@ header > p{
 
 nav{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 
     background-color: var(--cor5);
     padding: 10px;
